@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /uploads/
+
+Sitemap: https://vetntech.online/sitemap.xml
